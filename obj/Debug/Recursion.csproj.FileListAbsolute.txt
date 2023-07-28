@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\Recursion\Recursion\bin\Debug\Recursion.exe.config
+D:\SimpliLearn Course\Assisted Project\Recursion\Recursion\bin\Debug\Recursion.exe
+D:\SimpliLearn Course\Assisted Project\Recursion\Recursion\bin\Debug\Recursion.pdb
+D:\SimpliLearn Course\Assisted Project\Recursion\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\Recursion\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\Recursion\Recursion\obj\Debug\Recursion.exe
+D:\SimpliLearn Course\Assisted Project\Recursion\Recursion\obj\Debug\Recursion.pdb
